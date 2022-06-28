@@ -11,6 +11,6 @@ data structure before starting analysis:
  ../[folder study_name]/data                      all measured animal data
  ../[folder study_name]/data/[animal name]        single measured animal data + Spike2 file
  ../[folder study_name]/data/[animal name]/dicom  dicom files of animal
- ![image](https://user-images.githubusercontent.com/68378705/176235454-e9bc3539-1b34-4daf-9308-fb5256e1819a.png)
-
+![image](https://user-images.githubusercontent.com/68378705/176235832-edf08a33-a5c0-43c9-8738-c5fce1aa6dd2.png)
+![image](https://user-images.githubusercontent.com/68378705/176235990-0e815746-b762-4ebb-ad68-ece04359c75e.png)
 ![image](https://user-images.githubusercontent.com/68378705/176235600-a597491a-68d8-4e26-a457-f24a344e74b3.png)
